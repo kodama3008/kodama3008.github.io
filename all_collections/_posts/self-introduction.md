@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 自己紹介
+title: self introduction
 date: 1948-12-12 10:18:00
 categories: [fiction, jekyll]
 ---
