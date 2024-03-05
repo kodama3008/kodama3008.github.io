@@ -1,120 +1,37 @@
----
-layout: post
-title: portfolio / ポートフォリオ
-date: 2024-03-05
-categories: ["jekyll", "Test Post", "first post"]
----
+# 制作物紹介
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`
+## Autoware を用いた、私有地への右折侵入シミュレーション（開発中）
 
-[Link to another page](./another-page.html).
+### プロジェクト GIF
 
-There should be whitespace between paragraphs.
+プロジェクトの動作を示す GIF を挿入します。動的なデモは、プロジェクトの機能を直感的に伝えるのに役立ちます。
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+![プロジェクトデモGIF](GIFのURL)
 
-#### Image
+### 概要
 
-Images can be clicked to enlarge :)
+- **プロジェクトの概要**: 自動運転車が私有地へ右折侵入するシナリオをシミュレーションする
+- **使用技術**: Autoware（シミュレータ）、Plotjuggler（パラメータの抽出）、D-Case（アシュアランスケースの記述と検証）
 
-![Dummy Image 1](https://picsum.photos/1366/768)
-![Dummy Image 2](https://picsum.photos/1200/400)
+### プロジェクトの詳細
 
-# Header 1
+株式会社 TIER Ⅳ と合同で取り組んでいる研究です。研究テーマは「シミュレーターとアシュアランスケースの連携による自動運転システムのディペンダビリティ保証フレームワーク」であり、自動運転システムのディペンダビリティを確保するための新しいアプローチを提案します。具体的には、Autoware シミュレーターに、D-Case（アシュアランスケース）を連携させ、以下に挙げるメリットを得ることを目的しています。
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- **実証と検証の強化**:
+  - シミュレーションを使用してシステムの振る舞いをテストし、アシュアランスケースに基づいてシステムが要求仕様を満たすことを検証する。これにより、システムの信頼性や安全性に関するアシュアランスを強化できる。
+- **使構成パーツの相互関係に関する理解の助け**:
+  - アシュアランスケースを記述することで、各要素の関係性が視覚的にわかりやすくなる。また、シミュレーションや、テストケースのフィードバックを、記述したアシュアランスケースと比較することで、アシュアランスケースの漏れ（＝認識不足）を確認できる。
 
-## Header 2
+現在は
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### コードのリンク
 
-### Header 3
+プロジェクトのコードが公開されている場合は、GitHub などのリポジトリへのリンクを提供します。
 
-> This is another blockquote following header 3
+[GitHub リポジトリ](リポジトリのURL)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require("./lang/" + l);
-  return true;
-};
-```
+### デモサイト
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+プロジェクトが Web アプリケーションで、オンラインでアクセス可能な場合は、デモサイトへのリンクを提供します。
 
-#### Header 4
-
-- This is an unordered list following a header.
-- This is an unordered list following a header.
-- This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-| :----------- | :---------------- | :---- |
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
----
-
-### Here is an unordered list:
-
-- Item foo
-- Item bar
-- Item baz
-- Item zip
-
-### And an ordered list:
-
-1.  Item one
-    1.  Item one
-    1.  Item two
-        1.  Item one
-        1.  Item two
-        1.  Item three
-    1.  Item three
-1.  Item four
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long.
-```
-
-```
-The final element.
-```
+[デモサイトを見る](デモサイトのURL)

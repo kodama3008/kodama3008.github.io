@@ -5,8 +5,6 @@ date: 2024-03-05
 categories: [fiction, jekyll]
 ---
 
-# 自己紹介
-
 ## 基本情報
 
 - 名前: 児玉　英明
@@ -51,6 +49,5 @@ categories: [fiction, jekyll]
 
 ## コンタクト
 
-- Email: taro-yamada@example.com
+- Email: cshd23008@g.nihon-u.ac.jp
 - GitHub: [github.com/taro-yamada](https://github.com/taro-yamada)
-- Twitter: [@taro_yamada](https://twitter.com/taro_yamada)
