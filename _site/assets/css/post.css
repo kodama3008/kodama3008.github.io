@@ -58,12 +58,14 @@ header {
 }
 main {
   margin: 0 auto;
-  max-width: 650px;
+  max-width: 800px;
   padding: 3rem 0 4rem 0;
 }
 .article {
   margin-bottom: 3rem;
 }
+
+/*  max-width: 650px;*/
 
 .article-header {
   margin-bottom: 4rem;
