@@ -6,7 +6,7 @@
 
 プロジェクトの動作を示す GIF を挿入します。動的なデモは、プロジェクトの機能を直感的に伝えるのに役立ちます。
 
-![プロジェクトデモGIF](https://github.com/kodama3008/kodama3008.github.io/tree/cite/screenshots/TurnRight.png)
+![右折侵入](https://github.com/kodama3008/kodama3008.github.io/blob/cite/screenshots/TurnRight.png)
 
 ### 概要
 
