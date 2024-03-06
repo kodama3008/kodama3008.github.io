@@ -2,7 +2,6 @@
 layout: post
 title: self introduction / 自己紹介
 date: 2024-03-05
-categories: [fiction, jekyll]
 ---
 
 ## 基本情報
