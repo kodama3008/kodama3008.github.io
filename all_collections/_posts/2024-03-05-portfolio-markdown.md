@@ -4,7 +4,10 @@
 
 ### イメージ
 
-<img src="https://raw.githubusercontent.com/kodama3008/kodama3008.github.io/cite/screenshots/TurnRight.png" title="右折侵入" width="800" height="500" >
+<div style="display: flex; justify-content: space-around; align-items: center;">
+    <img src="https://raw.githubusercontent.com/kodama3008/kodama3008.github.io/cite/screenshots/TurnRight.png" style="width: 45%;">
+    <img src="https://raw.githubusercontent.com/kodama3008/kodama3008.github.io/cite/screenshots/GSN.png" style="width: 45%;">
+</div>
 
 ### 概要
 
