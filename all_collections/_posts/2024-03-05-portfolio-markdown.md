@@ -2,11 +2,9 @@
 
 ## Autoware を用いた、私有地への右折侵入シミュレーション（開発中）
 
-### プロジェクト GIF
+### イメージ
 
-プロジェクトの動作を示す GIF を挿入します。動的なデモは、プロジェクトの機能を直感的に伝えるのに役立ちます。
-
-![右折侵入](https://github.com/kodama3008/kodama3008.github.io/blob/cite/screenshots/TurnRight.png)
+<img src="https://raw.githubusercontent.com/kodama3008/kodama3008.github.io/cite/screenshots/TurnRight.png" title="右折侵入" width="800" height="500" >
 
 ### 概要
 
@@ -27,11 +25,9 @@
 
 ## Esmini を用いた、自動運転車と歩行者のシミュレーション
 
-### プロジェクト GIF
+### イメージ
 
-プロジェクトの動作を示す GIF を挿入します。動的なデモは、プロジェクトの機能を直感的に伝えるのに役立ちます。
-
-![プロジェクトデモGIF](GIFのURL)
+<img src="https://raw.githubusercontent.com/kodama3008/kodama3008.github.io/cite/screenshots/TurnRight.png" title="Esmini　シミュレーション" width="800" height="500" >
 
 ### 概要
 
@@ -51,16 +47,14 @@ Autoware でのシミュレーションには高性能なデスクトップ PC �
 
 ## MOM（Matsulab Online Meetingtool）
 
-### プロジェクト GIF
+### イメージ
 
-プロジェクトの動作を示す GIF を挿入します。動的なデモは、プロジェクトの機能を直感的に伝えるのに役立ちます。
-
-![プロジェクトデモGIF](https://github.com/kodama3008/kodama3008.github.io/tree/cite/screenshots/TurnRight.png)
+<img src="https://raw.githubusercontent.com/kodama3008/kodama3008.github.io/cite/screenshots/TurnRight.png" title="Esmini　シミュレーション" width="800" height="500" >
 
 ### 概要
 
 - **プロジェクトの概要**: オンライン会議における情報共有の難しさや、煩わしさを解消する
-- **使用技術**: Unity、Google speech to text（音声認識機能）、Monobit エンジン（サーバー）
+- **使用技術**: Unity、Cloud Speech-to-Text（音声認識機能）、Monobit エンジン（サーバー）
 - **環境**: GitHub（コード管理）、Trello（タスク管理）、Slack（コミュニケーションツール）、Miro（オンラインホワイトボード）
 - **使用言語**: C#
 - **人数**:6 人
