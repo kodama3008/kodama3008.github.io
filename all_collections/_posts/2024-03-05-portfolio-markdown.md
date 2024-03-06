@@ -6,7 +6,7 @@
 
 プロジェクトの動作を示す GIF を挿入します。動的なデモは、プロジェクトの機能を直感的に伝えるのに役立ちます。
 
-![プロジェクトデモGIF](GIFのURL)
+![プロジェクトデモGIF](https://github.com/kodama3008/kodama3008.github.io/tree/cite/screenshots/TurnRight.png)
 
 ### 概要
 
@@ -25,7 +25,7 @@
 
 現在は自動運転車が私有地へ右折侵入するシナリオに絞って、シナリオを構成するユースケース単位で検証を行っています。
 
-## esmioni を用いた、自動運転車と歩行者のシミュレーション
+## Esmini を用いた、自動運転車と歩行者のシミュレーション
 
 ### プロジェクト GIF
 
@@ -55,7 +55,7 @@ Autoware でのシミュレーションには高性能なデスクトップ PC �
 
 プロジェクトの動作を示す GIF を挿入します。動的なデモは、プロジェクトの機能を直感的に伝えるのに役立ちます。
 
-![プロジェクトデモGIF](screenshots/TurnRight.png)
+![プロジェクトデモGIF](https://github.com/kodama3008/kodama3008.github.io/tree/cite/screenshots/TurnRight.png)
 
 ### 概要
 
