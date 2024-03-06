@@ -50,4 +50,4 @@ categories: [fiction, jekyll]
 ## コンタクト
 
 - Email: cshd23008@g.nihon-u.ac.jp
-- GitHub: [github.com/taro-yamada](https://github.com/taro-yamada)
+- GitHub: []()
