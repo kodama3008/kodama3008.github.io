@@ -31,6 +31,10 @@ date: 2024-03-05
 
 現在は自動運転車が私有地へ右折侵入するシナリオに絞って、シナリオを構成するユースケース単位で検証を行っています。
 
+### GitHub リンク
+
+https://github.com/kodama3008/shioji_simulation/tree/main
+
 ## Esmini を用いた、自動運転車と歩行者のシミュレーション
 
 ### イメージ
@@ -47,7 +51,7 @@ date: 2024-03-05
 
 Autoware でのシミュレーションには高性能なデスクトップ PC が必要であり、デスクトップ PC が研究室に設置される期間の間に練習もかねてシナリオを作成しました。歩行者の位置や道路を横断する速度がランダムに設定され、それに対して自動運転車がどのような挙動をするかを検証しました。
 
-### リンク
+### GitHub リンク
 
 https://github.com/kodama-tier4/esmini-sim
 
@@ -74,3 +78,7 @@ https://github.com/kodama-tier4/esmini-sim
 - チャット機能
 - 音声認識機能が備わっており、発言内容が自動で記録され pdf として出力できる
 - ホワイトボード機能による、情報の可視化が可能
+
+### GitHub リンク
+
+https://github.com/CSTmatsunolab/gigiroku2
